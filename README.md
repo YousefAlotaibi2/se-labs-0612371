@@ -1,5 +1,5 @@
 # se-labs-0612371
-Name:YousefAlotaibi
+Name:Yousef Alotaibi
 Section:65A
 Goal:Get an A in software Engineering
 
